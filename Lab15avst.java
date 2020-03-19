@@ -19,6 +19,7 @@ public class Lab15avst
 
       magic.computeMagicSquare();
       magic.displayMagicSquare();
+			// This is my change!!!!!!!!!
    //	magic.checkRows();          // for 100 & 110 Point Version Only
    //	magic.checkColumns();		 // for 100 & 110 Point Version Only
    //	magic.checkDiagonals();	 	 // for 100 & 110 Point Version Only
@@ -78,6 +79,5 @@ class MagicSquare
 		System.out.println("==================");
 		System.out.println();
 	}
-   
-}
 
+}
